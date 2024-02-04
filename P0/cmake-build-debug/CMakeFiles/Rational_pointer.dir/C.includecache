@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lucas/CLionProjects/untitled20/main.c
+stdio.h
+-
+rational_pointer.h
+C:/Users/lucas/CLionProjects/untitled20/rational_pointer.h
+
+C:/Users/lucas/CLionProjects/untitled20/rational_pointer.c
+stdlib.h
+-
+rational_pointer.h
+C:/Users/lucas/CLionProjects/untitled20/rational_pointer.h
+
+C:/Users/lucas/CLionProjects/untitled20/rational_pointer.h
+

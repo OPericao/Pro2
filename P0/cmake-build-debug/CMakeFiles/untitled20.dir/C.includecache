@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lucas/CLionProjects/untitled20/main.c
+stdio.h
+-
+rational struct.h
+C:/Users/lucas/CLionProjects/untitled20/rational struct.h
+
+C:/Users/lucas/CLionProjects/untitled20/rational_struct.c
+rational_struct.h
+C:/Users/lucas/CLionProjects/untitled20/rational_struct.h
+
+C:/Users/lucas/CLionProjects/untitled20/rational_struct.h
+

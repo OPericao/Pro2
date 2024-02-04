@@ -1,0 +1,5 @@
+C:/Users/lucas/CLionProjects/untitled20/cmake-build-debug/CMakeFiles/untitled20.dir
+C:/Users/lucas/CLionProjects/untitled20/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/lucas/CLionProjects/untitled20/cmake-build-debug/CMakeFiles/Rational_pointer.dir
+C:/Users/lucas/CLionProjects/untitled20/cmake-build-debug/CMakeFiles/Rational_struct.dir
+C:/Users/lucas/CLionProjects/untitled20/cmake-build-debug/CMakeFiles/edit_cache.dir
